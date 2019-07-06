@@ -22,7 +22,7 @@ public class GithubApp {
 		System.out.println("Answer for multiplication = " + answer);
 		
 	//Divide
-		answer = x / y;
+		answer = a / b;
 		System.out.println("Answer for division = " + answer);
 			
 	}
