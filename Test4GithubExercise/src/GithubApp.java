@@ -18,7 +18,7 @@ public class GithubApp {
 		System.out.println("Answer for subtraction = " + answer);
 		
 	//Multiply
-		answer = x * y;
+		answer = a * b;
 		System.out.println("Answer for multiplication = " + answer);
 		
 	//Divide
